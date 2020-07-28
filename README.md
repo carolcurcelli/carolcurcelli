@@ -8,7 +8,7 @@ Hi there! My name is Carol Santos, I'm a Brazilian 🇧🇷 Front-End Developer 
 - 📫 You can reach me [here](https://t.co/fRUSmT7w36?amp=1)
 - 🗣️ I speak both Portuguese, my native language, and English. Hopefully you'll consider my English understandable
 
-[![Blog](https://img.shields.io/badge/Blog-olacarol.com.br%2Fblog-orange)(https://olacarol.com.br/blog]
+[![Blog](https://img.shields.io/badge/Blog-olacarol.com.br%2Fblog-orange)](https://olacarol.com.br/blog)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carolsvntos)](https://twitter.com/carolsvntos)
 [![Instagram](https://img.shields.io/badge/-Instagram-critical?style=flat-square&labelColor=critical&logo=instagram&logoColor=white&link=https://www.instagram.com/carolsvntos)](https://instagram.com/carolsvntos)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carolsvntos/)](https://www.linkedin.com/in/carolsvntos/)
