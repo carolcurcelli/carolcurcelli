@@ -6,7 +6,7 @@ Hi there! My name is Carol Santos, I'm a Brazilian 🇧🇷 Front-End Developer 
 - 🐤 I’m dedicating my time in improving my JavaScript skills, as well as learning React
 - 💬 I can help you with your HTML and CSS inquiries
 - 📫 You can reach me [here](https://t.co/fRUSmT7w36?amp=1)
-- 🗣️ I speak both Portuguese, my native language, and English. Hopefully you'll consider my English understandable
+- 🗣️ I speak both Portuguese, my native language, and English
 
 [![Blog](https://img.shields.io/badge/Blog-olacarol.com.br%2Fblog-orange)](https://olacarol.com.br/blog)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carolsvntos)](https://twitter.com/carolsvntos)
