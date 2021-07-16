@@ -5,7 +5,7 @@ Olá! Meu nome é Carol Santos, sou uma desenvolvedora front-end em São Paulo. 
 - 🧙 Meus pronomes são ela/dela
 - 🐤 Estou desenvolvendo minhas skills de liderança
 - 💬 Posso te ajudar com dúvidas sobre CSS3
-- 📫 Você pode falar comigo [aqui](https://t.co/fRUSmT7w36?amp=1)
+- 📫 Você pode falar comigo [aqui](https://carolsantos.dev/)
 - 🗣️ Eu falo português (nativo) e inglês (fluente)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carolsvntos)
