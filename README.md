@@ -9,7 +9,7 @@ Olá! Meu nome é Carol Santos, sou uma desenvolvedora front-end em São Paulo. 
 - 🗣️ Eu falo português (nativo) e inglês (fluente)
 - 📖 Estudando francês
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Front-End-for-Newbies-fc569e14c0fb41d2a63d6305802120f4)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carolsvntos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carolsvntos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolsvntos/)
