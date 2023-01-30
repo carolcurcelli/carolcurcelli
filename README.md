@@ -1,45 +1,25 @@
 ## 🐰 Sobre mim
 
-Olá! Meu nome é Carol Santos, sou uma desenvolvedora front-end em São Paulo. Desenvolvimento front-end  uma paixão presente na minha vida desde os meus 13 anos, quando lancei meu primeiro site. Atuo profissionalmente desde 2013. Hoje em dia, faço magia front-end na [Alura](https://alura.com.br), uma plataforma de educação em tecnologia online. Meus hobbies incluem codar 💻, video-games 🎮, jardinagem 🌱, cuidar da minha doguinha 🐶, fazer velas 🕯️ e ilustrar 🎨.
+Olá! Meu nome é Carol Santos, sou uma desenvolvedora front-end em São Paulo. Comecei a desenvolver aos 13 anos, quando lancei meu primeiro site, e atuo profissionalmente desde 2013. Hoje sou tech lead e gestora de um time que faz magia front-end na [Alura](https://alura.com.br), uma plataforma de educação em tecnologia online. Meus hobbies incluem codar 💻, video-games 🎮, jardinagem 🌱, cuidar dos meus doguinhos 🐶, fazer velas 🕯️ e bullet journals 🎨.
 
 - 🧙 Meus pronomes são ela/dela
-- 🐤 Estou desenvolvendo minhas skills de liderança
-- 💬 Posso te ajudar com dúvidas sobre CSS
+- 🐤 Estou focada em meu desenvolvimento na área de gestão
+- 💬 Sou especialista e posso te ajudar com dúvidas sobre CSS
 - 📫 Você pode falar comigo [aqui](https://carolsantos.dev/)
 - 🗣️ Eu falo português (nativo) e inglês (fluente)
 - 📖 Estudando francês
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Front-End-for-Newbies-fc569e14c0fb41d2a63d6305802120f4)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carolsvntos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carolsvntos)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carol.svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolsvntos/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/carolsvntos)
-
-[![Portfolio](https://c.tenor.com/WJYaqBmuyK0AAAAd/futaba-anime.gif)](https://carolsantos.dev)
-
 [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/BubblesCarol)
+[![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/cheetos-hmmm)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Iinguica/)
 ![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
-## ✨ Carreira
-
-###### 👩🏻‍💻 Trabalhando
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![InteliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-###### 📖 Estudando
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
+[![Portfolio](https://c.tenor.com/WJYaqBmuyK0AAAAd/futaba-anime.gif)](https://carolsantos.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolsvntos&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
