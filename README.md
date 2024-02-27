@@ -1,22 +1,21 @@
 ## 🐰 Sobre mim
 
-Olá! Meu nome é Carol Santos, sou uma desenvolvedora front-end em São Paulo. Comecei a desenvolver aos 13 anos, quando lancei meu primeiro site, e atuo profissionalmente desde 2013. Hoje sou tech lead e gestora de um time que faz magia front-end na [Alura](https://alura.com.br), uma plataforma de educação em tecnologia online. Meus hobbies incluem codar 💻, video-games 🎮, jardinagem 🌱, cuidar dos meus doguinhos 🐶, fazer velas 🕯️ e bullet journals 🎨.
+Olá! Meu nome é Carol Curcelli, sou uma desenvolvedora front-end em São Paulo. Comecei a desenvolver aos 12 anos, quando lancei meu primeiro site, e atuo profissionalmente desde 2013. Hoje sou tech lead e gestora de um time que faz magia front-end na [Alura](https://alura.com.br), uma plataforma de educação em tecnologia online. Meus hobbies incluem codar 💻, video-games 🎮, jardinagem 🌱, cuidar dos meus doguinhos 🐶, fazer velas 🕯️ e bullet journals 🎨.
 
 - 🧙 Meus pronomes são ela/dela
 - 🐤 Estou focada em meu desenvolvimento na área de gestão
 - 💬 Sou especialista e posso te ajudar com dúvidas sobre CSS
 - 📫 Você pode falar comigo [aqui](https://carolsantos.dev/)
-- 🗣️ Eu falo português (nativo) e inglês (fluente)
-- 📖 Estudando francês
+- 🗣️ Eu falo português (nativo), inglês (fluente) e estou estudando francês (básico)
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Front-End-for-Newbies-fc569e14c0fb41d2a63d6305802120f4)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carolsvntos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carol.svg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolsvntos/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carolcurcelli)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carolcurceli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolcurcelli/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/carolsvntos)
 [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/BubblesCarol)
 [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/cheetos-hmmm)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Iinguica/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/bayoneuza/)
 ![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 [![Portfolio](https://c.tenor.com/WJYaqBmuyK0AAAAd/futaba-anime.gif)](https://carolsantos.dev)
