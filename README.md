@@ -1,6 +1,6 @@
 ## 🐰 Sobre mim
 
-Olá! Meu nome é Carol Curcelli, sou uma desenvolvedora front-end em São Paulo. Comecei a desenvolver aos 12 anos, quando lancei meu primeiro site, e atuo profissionalmente desde 2013. Hoje sou tech lead e gestora de um time que faz magia front-end na [Alura](https://alura.com.br), uma plataforma de educação em tecnologia online. Meus hobbies incluem codar 💻, video-games 🎮, jardinagem 🌱, cuidar dos meus doguinhos 🐶, fazer velas 🕯️ e bullet journals 🎨.
+Olá! Meu nome é Carol Curcelli, sou uma desenvolvedora front-end em São Paulo. Comecei a desenvolver aos 12 anos, quando lancei meu primeiro site, e atuo profissionalmente desde 2013. Hoje sou tech lead e gestora de um time que faz magia front-end na [Alura](https://alura.com.br), uma plataforma de educação em tecnologia online. Meus hobbies incluem codar 💻, video-games 🎮, jardinagem 🌱, cozinhar 🍽️ e cuidar dos meus doguinhos 🐶.
 
 - 🧙 Meus pronomes são ela/dela
 - 🐤 Estou focada em meu desenvolvimento na área de gestão
